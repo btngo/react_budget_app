@@ -11,3 +11,9 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+/* The container must be positioned relative: */
+.custom-select {
+    background-color: DodgerBlue;
+  }
